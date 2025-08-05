@@ -1,2 +1,2 @@
 # DRCFNet
-Official code for "DRCFNet: A Deep Learning-Based Joint Channel Estimation and Feedback Scheme for Dual-RIS Assisted Wireless Communication"
+Official code for "Joint Channel Estimation and Feedback in Dual-RIS Assisted Wireless Communication Using Deep Learning"
